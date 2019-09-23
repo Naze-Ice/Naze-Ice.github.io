@@ -9,9 +9,7 @@
   text-align: center;
 }
 .brand {
-  width: 100px;
-  height: 100px;
-  border-radius: 100px;
+  width: 50px;
 }
 .technology-body {
   width: 100%;
