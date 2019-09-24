@@ -269,4 +269,7 @@
   }
 
   animation();
+  debugger;
+  $('.video-inner text-center text-white').html("<h1 style="text-align: center">Naze-Ice</h1>");
+
 })(jQuery);
